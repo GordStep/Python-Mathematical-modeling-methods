@@ -18,6 +18,13 @@ __pycache__/
 # C extensions
 *.so
 
+# C++ ext
+*.exe
+*.ilk
+*.obj
+*.pdb
+*.o
+
 # Distribution / packaging
 .Python
 build/
